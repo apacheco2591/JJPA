@@ -1,0 +1,39 @@
+
+#tabla{
+    width: 80%;  
+	vertical-align: center;
+	margin-right: auto; 
+ 	margin-left:auto;
+}
+#fila{
+	height: 30px;
+    width: 100%;
+    margin-right: auto; 
+ 	margin-left:auto;
+}
+#colI{
+	height: 90%;
+    width: 49%;
+  	text-align:right;
+  	margin-right: auto; 
+ 	margin-left:auto;
+ 	float:left;
+ 	padding:2px;		
+}
+#colD{
+	
+	height: 90%;
+    width: 49%;
+  	text-align:left;
+  	float:right;
+  	margin-right: auto; 
+ 	margin-left:auto;
+ 	padding:2px;	
+}
+#boton{
+	height: 90%;
+    width: 98%;
+    text-align:center;
+  	float:inherit;
+  	padding:2px;
+}
